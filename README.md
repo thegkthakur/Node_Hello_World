@@ -1,2 +1,2 @@
 # Node_Hello_World
-Hello world program in Node js
+Hello world program in Node.js
